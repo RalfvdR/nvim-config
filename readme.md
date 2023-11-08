@@ -31,3 +31,12 @@ additionally a c compiler is needed, e.g. gcc (mingw)
 ### move source
 
 move the nvim folder to C:/users/<your-user>/appdata/local/nvim
+
+## configuration
+
+- [telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [packer](https://github.com/wbthomason/packer.nvim)
+- color scheme: [night-owl](https://github.com/oxfist/night-owl.nvim)
+- [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+-- go, html, css, javascript, typescript
+
