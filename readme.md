@@ -26,6 +26,8 @@ function grep {
 }
 ```
 
+additionally a c compiler is needed, e.g. gcc (mingw)
+
 ### move source
 
 move the nvim folder to C:/users/<your-user>/appdata/local/nvim
